@@ -27,6 +27,9 @@ body {
     cursor: pointer;
     font-weight: bold;
 }
+.item:hover {
+    background-color: rgb(132, 68, 68);
+}
 form {
     max-width: 100%;
 }
